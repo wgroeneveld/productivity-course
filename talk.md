@@ -1,4 +1,4 @@
-A very short intro to productivity tools for devs
+A (very) short intro to productivity tools for devs
 =============================
 
 ---
@@ -169,9 +169,28 @@ Nuget, Rubygems, Composer, node, ... packages
 
 ___
 
+### Automate repetetive commands: F5 F5 F5 F5 ...
+
+Build tool plugins:
+
+![](resources/gulp.png)
+
+Livereload - https://www.npmjs.com/package/gulp-livereload
+
+
+___
+
 ### Automate the web: selenium
 
 WebDriver. Kan in C#, python, ... 
+
+___
+
+### Automate between APIs: IFTTT
+
+https://ifttt.com/
+
+![](resources/ifttt-banner_wp.jpg)
 
 ___
 
@@ -262,49 +281,107 @@ simpel voorbeeldje met reflectie sneller oplosbaar
 
 ## The perfect Tool
 
+![](resources/tool.jpg)
+
 Requirements:
 
-* macro recording
-* cmdline-able
-* regexp search/replace
-* +1 registers
-* crossplatform
-* your requirement here?
+macro recording, cmdline-able, regexp search/replace, +1 registers, crossplatform, your requirement here?
+
+___ 
 
 ### The perfect Tool: an IDE
 
-IntelliJ platform, Eclipse, VStudio
+![](resources/intellij.png)
+
+* IntelliJ platform
+* Eclipse
+* Visual Studio
+* ... 
+
+Daily (heavyweight) work done here.<br/>
+So why not be productive with it?
+
 
 ___
 
-### The perfect Tool: an Editor
+### The perfect Tool: an Editor - the new gen.
 
-New gen: Sublime3, Atom, VSCode
+![](resources/vscode.png)
 
-Old gen: VI, Emacs
-Still relevant!! 
+**Get to know them** - put in the extra time!
+
+___
+
+### The perfect Tool: an Editor - the old gen.
+
+VI, Emacs - Yes, they are still **very relevant**!
+
+![](resources/gvim.png)
+
+Vi shortcuts in cmdline: `set -o vi` (incl insert mode)
 
 ___
 
 ### The perfect Tool: cmdline
 
-Cygwin, voorbeeldjes, grep, sed, ...
+Cygwin, grep, sed, ...
 
 http://www.brainbaking.com/wiki/unix/cmd/
 
-set -o vi
+```cmd
+find . -name "*.csproj" -exec grep -H 2 "utilities" {} \;
+sed 's/<br/>(.*<br/>)/regel:<br/>1/g' log.tmp >> $logfile
+cat file | sed -e 's/replace/by/g' -e 's/other/new/g' 
+echo 'holy shit I am seriously impressed'
+```
 
 ___
 
 ### The perfect tool: which language to use when?
 
-Use a "real" (script) language to automate chores.
+Use a "real" (script) language to automate chores.<br/><br/>
 
-Why? Unit testability, vs shell/Bash script. 
-Why? Keep behaviour in (unit tested) code.
+Why? Unit **testability**, vs shell/Bash script. <br/>
+Why? **Keep behaviour in (unit tested) code**.
 
 ---
 
-## Philosophy
+## Philosophy of a productive person
 
-Be a polyglot
+> Productivity beyond coding: '(life) hacking'
+
+![](resources/hacker.jpg)
+
+
+___ 
+
+### Be a polyglot
+
+![](resources/polyglot.jpg)
+
+___
+
+### Getting Thigns Done (GTD)
+
+> Having a system that works and gets the work done. 
+
+![](resources/gtd.jpg)
+
+___
+
+### John Locke's system
+
+Trying to be productive is older than you might think... 
+
+![](resources/bullet_journaling.jpg)
+
+---
+
+## Resources
+
+* Leo Babauta's Focus manifesto: http://focusmanifesto.s3.amazonaws.com/FocusFree.pdf
+* ReSharper Documentation: https://www.jetbrains.com/resharper/documentation/documentation.html
+* Download Cygwin: https://cygwin.com/install.html
+* Life Hacker: http://lifehacker.com/
+* Learning the Vi and Vim Editors: http://shop.oreilly.com/product/9780596529833.do
+
