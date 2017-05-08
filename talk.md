@@ -165,8 +165,6 @@ http://mridgers.github.io/clink/
 (Aristotle)
 ___
 
-___
-
 <!-- .slide: data-background="resources/distracted_walker.jpg" -->
 
 ___
@@ -283,9 +281,7 @@ ___
 
 ![](resources/version-control-comic.png)
 
-___
-
-### Use dropbox/GDrive/...
+... Or use dropbox/GDrive/...
 
 ___
 
@@ -298,21 +294,18 @@ ___
 
 ### Symlinks
 
-> ln -s 
-
-Windows: junction
+* Unix: `ln -s link target`
+* Windows: junction
+* Windows 10: `mlink /D link target`
 
 ___
 
 ### Keep your documentation in one place
 
-Mogelijkheden? Wiki, Github pages + Static web engines
-
-Automatisatie integratie github etc
-
-Boekske? Analoog vs digitaal
-
-Genereer documentatie wanneer afhankelijk van code (bvb class diagrams etc)
+* Keep a personal Wiki
+* Github pages + Static web engines like https://gohugo.io/
+* Generate documents based on code - https://msdn.microsoft.com/nl-be/library/ff657806.aspx
+* Analog Journaling (sometimes) > Digital
 
 ---
 
@@ -326,18 +319,25 @@ Automate tests, be productive, run stuff faster, get notices faster, ...
 
 Build tools, etc etc
 
+![](resources/howtorun_csharp.png)
+
 ___
 
 ### Statistics generation
 
-teamcity build grafiekske, code coverage automated, ... 
+teamcity build statistics, code coverage automated, ... 
+
+![](resources/tc_statistics.png)
 
 ___
 
 ### Getting work done using reflection
 
-simpel voorbeeldje met reflectie sneller oplosbaar
-(welke taal?)
+* Sometimes reflection is more elegant
+* Sometimes reflection introduces complexity for nothing
+* Depends on the language you'll be using
+
+(Example)
 
 ---
 
@@ -446,7 +446,7 @@ Trying to be productive is older than you might think...
 ![](resources/bullet_journaling.jpg)
 
 ---
-<!-- .slide: data-background="#85ba62" -->
+
 ## Resources
 
 * The Productive Programmer: http://nealford.com/books/productiveprogrammer
