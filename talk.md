@@ -33,7 +33,7 @@ Developers are getting less efficient, not more!
 ___
 
 ## Who cares?
-
+<!-- .slide: data-background="#85ba62" -->
 Good for the company your work for...
 
 But also and most importantly: good for yourself! 
@@ -59,6 +59,8 @@ Then **why aren't we doing it**?
 
 The right lazy people **are** productive and use the tools.
 
+___
+<!-- .slide: data-background="resources/fountainpen.jpg" -->
 
 ---
 
@@ -88,7 +90,7 @@ Essence: You're there now. Do what you want to do.
 
 ___
 
-![](resources/bookmark.jpg)
+<!-- .slide: data-background="resources/bookmark.jpg" -->
 
 ---
 
@@ -96,11 +98,15 @@ ___
 
 > Search always trumps navigation.
 
+![](resources/google.png)
+
 ___
 
 ### Launching programs
 
-Windows alternate startmenu, Unix, Mac spotlight dinges
+* http://windowsreport.com/desktop-app-launchers-windows-10/ 
+* Unix
+* Mac spotlight + alternatives
 
 ___
 
@@ -322,6 +328,14 @@ Vi shortcuts in cmdline: `set -o vi` (incl insert mode)
 
 ___
 
+### Vi and recording
+
+![](resources/vim-macros.gif)
+
+https://nathanleclaire.com/blog/2013/10/27/5-cool-unix-hacks-for-fun-and-productivity/
+
+___
+
 ### The perfect Tool: cmdline
 
 Cygwin, grep, sed, ...
@@ -376,9 +390,10 @@ Trying to be productive is older than you might think...
 ![](resources/bullet_journaling.jpg)
 
 ---
-
+<!-- .slide: data-background="#85ba62" -->
 ## Resources
 
+* The Productive Programmer: http://nealford.com/books/productiveprogrammer
 * Leo Babauta's Focus manifesto: http://focusmanifesto.s3.amazonaws.com/FocusFree.pdf
 * ReSharper Documentation: https://www.jetbrains.com/resharper/documentation/documentation.html
 * Download Cygwin: https://cygwin.com/install.html
