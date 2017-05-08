@@ -29,6 +29,17 @@ ___
 
 Developers are getting less efficient, not more!
 
+___
+
+### Plowing the field (V. Van Gogh, 1882)
+
+![](resources/plower.jpg)
+
+___
+
+### Plowing the field (2000+)
+
+![](resources/plower2.jpg)
 
 ___
 
@@ -61,6 +72,8 @@ The right lazy people **are** productive and use the tools.
 
 ___
 <!-- .slide: data-background="resources/fountainpen.jpg" -->
+
+Know your tools!
 
 ---
 
@@ -104,6 +117,8 @@ ___
 
 ### Launching programs
 
+![](resources/win10.png)
+
 * http://windowsreport.com/desktop-app-launchers-windows-10/ 
 * Unix
 * Mac spotlight + alternatives
@@ -112,8 +127,11 @@ ___
 
 ### Launching (menu) actions in programs
 
+![](resources/subl.png)
+
+CMD+SHIFT+P
+<br/>
 Mac: help search
-Tools zoals SUBL: CMD+SHIFT+P
 
 ---
 
@@ -125,13 +143,18 @@ ___
 
 ### Clipboard history
 
+![](resources/clipboard.png)
+
 ___
 
 ### Cmdline history
 
-Windows: F8? 
-Pijltjes drukken VS shortcut keys
-Unix: "history", set -o vi, ESC + /
+![](resources/cmdhistory.png)
+
+* Windows: `F7`, `F8` (Within one session) > Arrow up/down
+* Unix: "history", `set -o vi`, ESC + /
+
+http://mridgers.github.io/clink/
 
 ---
 
@@ -285,7 +308,7 @@ simpel voorbeeldje met reflectie sneller oplosbaar
 
 ---
 
-## The perfect Tool
+## Again: Know your Tools
 
 ![](resources/tool.jpg)
 
