@@ -1,0 +1,10 @@
+{
+  "name": "LiveReload",
+  "version": "0.0.0",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1"
+  }
+}

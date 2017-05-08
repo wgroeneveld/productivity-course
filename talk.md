@@ -73,7 +73,7 @@ The right lazy people **are** productive and use the tools.
 ___
 <!-- .slide: data-background="resources/fountainpen.jpg" -->
 
-Know your tools!
+### Know your tools!
 
 ---
 
@@ -160,33 +160,58 @@ http://mridgers.github.io/clink/
 
 ## Mechanics: focus
 
+> It is during our darkest moments that we must focus to see the light.
+
+(Aristotle)
 ___
+
+___
+
+<!-- .slide: data-background="resources/distracted_walker.jpg" -->
+
+___
+
 
 ### Distraction-free mode
 
-F11, overal in tools beschikbaar tegenwoordig
-Turn off notifications!
-Don't live in your mailbox!
-Throw out your cellphone! 
+F11<br/>
+<br/>
 
-quiet time
+* Everywhere available nowadays (IDE, OS, TextEditor, ...)
+* Turn off notifications!
+* Don't live in your mailbox!
+* Throw out your cellphone! 
+
+Introduce **Quiet time**
 
 ___
+
+http://focusmanifesto.s3.amazonaws.com/FocusFree.pdf
+
+![](resources/focuscover.jpg)
+
+__
 
 ### Monitors++
 
 (and keyboards/mice, pair programming)
 
+![](resources/monitors.jpg)
+
 ---
 
 ## Mechanics: automatisation
+
+> I couldn't tell you in any detail how my computer works. I use it with a layer of automation.
 
 ___
 
 ### Write scripts to do the work for you
 
-file manipluation on regular basis, ...
-Python & Ruby are excellent choices here
+* File manipluation on regular basis
+* syncing directories: `rsync`
+* encoding/decoding, shrinking, ... 
+* Python & Ruby are excellent choices here
 
 ___
 
@@ -194,7 +219,11 @@ ___
 
 +1mil. Libraries of all languages available.
 
-Nuget, Rubygems, Composer, node, ... packages
+* C# - https://www.nuget.org/
+* Ruby - https://rubygems.org/
+* PHP - https://packagist.org/
+* Node - https://www.npmjs.com/
+* ...
 
 ___
 
@@ -225,7 +254,9 @@ ___
 
 ### Use commandline variants of programs
 
-SVN ipv tortoise, wget ipv browsing, ...
+* `SVN` instead of Tortoise
+* `wget` instead of browsing browsing
+
 Integrate them somewhere
 
 ___
@@ -249,6 +280,8 @@ http://thehumbleprogrammer.com/mastering-yagni/
 ___
 
 ### Use version control!
+
+![](resources/version-control-comic.png)
 
 ___
 
