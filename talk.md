@@ -37,9 +37,15 @@ ___
 
 ___
 
-### Plowing the field (2000+)
+### Plowing the field (2000)
 
 ![](resources/plower2.jpg)
+
+___
+
+### Plowing the field (2017)
+
+![](resources/plower3.jpg)
 
 ___
 
@@ -188,7 +194,7 @@ http://focusmanifesto.s3.amazonaws.com/FocusFree.pdf
 
 ![](resources/focuscover.jpg)
 
-__
+___
 
 ### Monitors++
 
