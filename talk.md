@@ -81,6 +81,22 @@ ___
 
 ### Know your tools!
 
+___
+
+<!-- .slide: data-background="resources/monbento.jpg" -->
+
+> "The Medium is the Message" - Marshall McLuhan
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 ---
 
 ## Mechanics
