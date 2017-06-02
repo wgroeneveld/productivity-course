@@ -115,6 +115,8 @@ ___
 
 ![](resources/spotlight.png)
 
+* Mac alternative: https://www.alfredapp.com/
+* Windows: http://www.launchy.net/
 ___
 
 ## Concentrate on **essence**, not on **ceremony**. 
@@ -161,9 +163,13 @@ Mac: help search
 
 > Those who don't rely on their history are doomed to type it again.
 
+Or use snippet managers like http://www.phraseexpress.com/ or https://www.phraseexpander.com/
 ___
 
 ### Clipboard history
+
+* Mac: http://www.clipmenu.com/
+* Windows: http://www.nakka.com/soft/clcl/index_eng.html
 
 ![](resources/clipboard.png)
 
@@ -201,6 +207,7 @@ F11<br/>
 * Turn off notifications!
 * Don't live in your mailbox!
 * Throw out your cellphone! 
+* Browser extensions that **hide images**
 
 Introduce **Quiet time**
 
@@ -311,6 +318,10 @@ ___
 
 Bob's PC === Jeff's PC
 Automate with Vagrant/puppet/...
+
+Alternative: Ninite - Install and Update your programs all at once
+
+![](resources/ninite.png)
 
 ___
 
@@ -456,6 +467,8 @@ ___
 ### Getting Thigns Done (GTD)
 
 > Having a system that works and gets the work done. 
+
+https://www.wunderlist.com/
 
 ![](resources/gtd.jpg)
 
