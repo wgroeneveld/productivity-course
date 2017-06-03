@@ -51,7 +51,7 @@ ___
 
 ## Who cares?
 <!-- .slide: data-background="#85ba62" -->
-Good for the company your work for...
+Good for the company you work for...
 
 But also and most importantly: good for yourself! 
 
@@ -235,7 +235,7 @@ ___
 
 ### Write scripts to do the work for you
 
-* File manipluation on regular basis
+* File manipulation on regular basis
 * syncing directories: `rsync`
 * encoding/decoding, shrinking, ... 
 * Python & Ruby are excellent choices here
@@ -282,7 +282,7 @@ ___
 ### Use commandline variants of programs
 
 * `SVN` instead of Tortoise
-* `wget` instead of browsing browsing
+* `wget` instead of browsing
 
 Integrate them somewhere
 
@@ -342,13 +342,13 @@ ___
 
 ---
 
-## Lot's of examples! 
+## Lots of examples! 
 
 ___
 
 ### TDD
 
-Automate tests, be productive, run stuff faster, get notices faster, ...
+Automate tests, be productive, run stuff faster, get notifications faster, ...
 
 Build tools, etc etc
 
